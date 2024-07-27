@@ -38,7 +38,7 @@ Investigated iPSC-induced differentiation of neurons. Studied the effects of dif
 Learned and participated in research on TRPV channels. Learned cell culture, molecular cloning, single-cell electrophysiology recordings, immunohistochemistry, usage and data processing of related software.
 
 # 📝 Project Experience 
-- *2021.12 - 2022.10*,China.International Genetically Engineered Machine (iGEM) | Leader <br>
+- *2021.12 - 2022.10*, International Genetically Engineered Machine (iGEM) | Leader <br>
 Led team members in project establishment and experiments,. Conceptualized and refined the project design on probiotics improving depression symptoms. Created a full wiki webpage, and presented at the international competition.
 - *2021.8*, University of Cambridge, UK | Computational Neuroscience Course <br>
 Collaborated with group members to complete Python code for simulating neuronal network firing balance, created and presented to Cambridge University course professors. Received a completion certificate.

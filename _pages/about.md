@@ -28,9 +28,11 @@ redirect_from:
 
 # 💻 Research Experience
 - *2023.10 - 2024.4*, Cold Spring Harbor Laboratory, USA | Helen Hou Lab
-Researched neural control of facial movements in rodents. Studied the direct regulation of facial movements in mice by the facial nucleus (FN). Set up an experimental platform combining in vivo electrophysiology and high-speed camera recordings. Built platform hardware, control programs, and processed electrophysiology data. Conducted behavioral training and in vivo electrophysiology recordings on mice
+Researched neural control of facial movements in rodents. Studied the direct regulation of facial movements in mice by the facial nucleus (FN). Set up an experimental platform combining in vivo electrophysiology and high-speed camera recordings. Built platform hardware, control programs, and processed electrophysiology data. Conducted behavioral training and in vivo electrophysiology recordings on mice.
+
 - *2023.7 - 2023.9*, Duke-NUS Medical School, Singapore | Alfred Sun Lab
 Investigated iPSC-induced differentiation of neurons. Studied the effects of different culture conditions and nutritional statuses on the maturity of induced differentiated neurons using single-cell electrophysiology recordings. Independently performed recordings and relevant data processing (Matlab).
+
 - *2021.7 - 2023.6*,School of Life Sciences, Wuhan University, China | Jing Yao Lab
 Learned and participated in research on TRPV channels. Learned cell culture, molecular cloning, single-cell electrophysiology recordings, immunohistochemistry, usage and data processing of related software.
 

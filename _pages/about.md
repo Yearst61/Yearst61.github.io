@@ -42,7 +42,7 @@ Learned and participated in research on TRPV channels. Learned cell culture, mol
 Led team members in project establishment and experiments,. Conceptualized and refined the project design on probiotics improving depression symptoms. Created a full wiki webpage, and presented at the international competition.
 - *2021.8*, University of Cambridge, UK | Computational Neuroscience Course <br>
 Collaborated with group members to complete Python code for simulating neuronal network firing balance, created and presented to Cambridge University course professors. Received a completion certificate.
-- *2021.2 - 20*, University of Oxford, UK | Academic Writing Course <br>					  
+- *2021.2*, University of Oxford, UK | Academic Writing Course				  
 
 # 💬 Other Skills
 -  Programming: Python, C++, R

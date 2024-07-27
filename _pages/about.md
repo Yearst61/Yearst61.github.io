@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 About me
-- Hi! This is Xinyan, an undergraduate student from Wuhan University. I'm currently studying in both Biology and Computer. I'm pretty interest in Neuroscience and looking forwark to a PhD study in the future soon. Through the passing acadamic years I've gained a skill set for it, including experimental skills from molecular and cellular biology to animal(mice) experiment. I'm especially familiar with electrophyisiology, including on single cell, brain slice and animal. I also got great experience in data analysis and programming.
+- Hi! This is Xinyan, an undergraduate student from Wuhan University. I'm currently studying in both Biology and Computer. I'm pretty interest in Neuroscience and looking forward to a PhD study in the future soon. Through the passing acadamic years I've gained a skill set for it, including experimental skills from molecular and cellular biology to animal(mice) experiment. I'm especially familiar with electrophyisiology, including on single cell, brain slice and animal. I also got great experience in data analysis and programming.
 - During my experience as research assistant, I found out that I really enjoy communicate with people from different background and learnt a lot from them, which gives me confidence to work out any problem that I face.
 - Thank you for reading this and hope we could find good cooperation!
 

@@ -23,7 +23,7 @@ redirect_from:
 
   
 # 📖 Education
-- *2020.09 - 2025.06 (expected)*, Wuhan University, Dual major in Biology Science and Computer Science and Technology
+- *2020.9 - 2025.6 (expected)*, Wuhan University, Dual major in Biology Science and Computer Science and Technology
 - GPA: 3.76/4.0
 
 # 💻 Research Experience

@@ -34,7 +34,7 @@ Researched neural control of facial movements in rodents. Studied the direct reg
 Investigated iPSC-induced differentiation of neurons. Studied the effects of different culture conditions and nutritional statuses on the maturity of induced differentiated neurons using single-cell electrophysiology recordings. Independently performed recordings and relevant data processing (Matlab).
 
 - *2021.7 - 2023.6*, School of Life Sciences, Wuhan University, China | Jing Yao Lab <br>
-Learned and participated in research about drug interaction on TRPV channels. Learned cell culture, molecular cloning, patch clamp, usage and data processing of related software.
+Learned and participated in research about drug interaction on TRPV channels. Learned cell culture, molecular cloning, patch clamp, usage and data processing of related software. <br>
 Learned and participated in research about glutamate release in hippocampus. Learned animal training,  immunohistochemistry, and data processing.
 
 # 📝 Project Experience 

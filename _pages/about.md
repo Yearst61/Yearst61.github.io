@@ -33,7 +33,7 @@ Researched neural control of facial movements in rodents. Studied the direct reg
 - *2023.7 - 2023.9*, Duke-NUS Medical School, Singapore | Alfred Sun Lab <br>
 Investigated iPSC-induced differentiation of neurons. Studied the effects of different culture conditions and nutritional statuses on the maturity of induced differentiated neurons using single-cell electrophysiology recordings. Independently performed recordings and relevant data processing (Matlab).
 
-- *2021.7 - 2023.6*,School of Life Sciences, Wuhan University, China | Jing Yao Lab <br>
+- *2021.7 - 2023.6*, School of Life Sciences, Wuhan University, China | Jing Yao Lab <br>
 Learned and participated in research on TRPV channels. Learned cell culture, molecular cloning, single-cell electrophysiology recordings, immunohistochemistry, usage and data processing of related software.
 
 # 📝 Project Experience 

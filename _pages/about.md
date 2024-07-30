@@ -24,7 +24,8 @@ redirect_from:
   
 # 📖 Education
 - *2020.9 - 2025.6 (expected)*, Wuhan University <br>
-Dual major in Biology Science and Computer Science and Technology
+Bachelor of Science in in Biology Science <br>
+Bachelor of Engineering in Computer Science and Technology
 - GPA: 3.76/4.0
 
 # 💻 Research Experience

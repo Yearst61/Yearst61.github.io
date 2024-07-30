@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 About me
-- Hi! This is Xinyan, an undergraduate student from Wuhan University. I'm currently studying in both Biology and Computer. I'm pretty interest in Neuroscience and looking forward to a PhD study in the future soon. Through the passing acadamic years I've gained a skill set for it, including experimental skills from molecular and cellular biology to animal(mice) experiment. I'm especially familiar with electrophyisiology, including on single cell, brain slice and animal. I also got great experience in data analysis and programming.
-- During my experience as research assistant, I found out that I really enjoy communicate with people from different background and learnt a lot from them, which gives me confidence to work out any problem that I face.
+- Hi! This is Xinyan, an undergraduate student from Wuhan University. I'm pretty interest in Neuroscience and looking forward to a PhD study in the future soon. During my experience as research assistant, I found out that I really enjoy communicate with people from different background and learnt a lot from them, which gives me confidence to work out any problem that I face.
 - Thank you for reading this and hope we could find good cooperation!
 
-  
 # 📖 Education
 - *2020.9 - 2025.6 (expected)*, Wuhan University <br>
 Bachelor of Science in in Biology Science <br>
@@ -44,6 +42,9 @@ Led team members in project establishment and experiments. Conceptualized and re
 (check it at https://2022.igem.wiki/whu-china/ !)
 - *2021.8*, University of Cambridge, UK | Computational Neuroscience Course <br>
 Collaborated with group members to complete Python code for simulating neuronal network firing balance, created and presented to Cambridge University course professors. Received a completion certificate.		  
+
+# 💬 Experimental Skills
+-  Cell culture, Molecular cloning, immunohistochemistry, Imaging, Electrophysiology(single cell, brain slice, in vivo), animal training(mice).
 
 # 💬 Other Skills
 -  Programming: Python, C++, R
